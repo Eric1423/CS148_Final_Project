@@ -1,0 +1,16 @@
+Date of Booking,Date of Journey,Airline-Class,Departure Time,Arrival Time,Duration,Total Stops,Price
+02/12/2023,16/12/2023,"SpiceJet
+SG-8169
+ECONOMY","22:35
+LAX","23:59
+SFO",01h 24m,non-stop,"63"
+05/12/2023,20/12/2023,"SpiceJet
+SG-8169
+ECONOMY","06:22
+LAX","16:29
+JFK",06h 24m,non-stop,"184"
+05/12/2023,14/12/2023,"SpiceJet
+SG-8169
+ECONOMY","14:45
+LAX","16:05
+SJC",01h 24m,non-stop,"99"
